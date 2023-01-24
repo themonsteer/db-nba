@@ -172,8 +172,9 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 <p> Links:</p>
 
 <h2>Pedro Souza: </h2>
-<p> <a href="https://www.linkedin.com/in/pedro-souza-a382b3182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> </p>
-<p>Github - https://github.com/themonsteer </p>
+<p> <a href="https://github.com/themonsteer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
+   
+<p>  <a ></a> </p>
 
 <h2>Caio Pereira:</h2>
 <p>Linkdin - https://www.linkedin.com/in/caio-pereira-oliveira </p>
