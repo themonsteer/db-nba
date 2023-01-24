@@ -172,18 +172,18 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 <p> Links:</p>
 
 <h2>Pedro Souza: </h2>
-<p> <a href="https://github.com/themonsteer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
+<p> <a href="https://github.com/themonsteer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
    
-<p>  <a ></a> </p>
+<p>  <a href="https://www.linkedin.com/in/pedro-souza-a382b3182" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
 
 <h2>Caio Pereira:</h2>
-<p>Linkdin - https://www.linkedin.com/in/caio-pereira-oliveira </p>
-<p>Github - https://github.com/caaiopereira </p> 
+<p>  <a href="https://github.com/caaiopereira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+<p>  <a  href="https://www.linkedin.com/in/caio-pereira-oliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px></a> </p>
 
 <h2>Luis Henrique:</h2>
-<p>Linkdin - https://www.linkedin.com/in/lu%C3%ADs-henrique-santos </p>
-<p>Github - https://github.com/Luis-Henrique-Lima </p>
+<p>  <a href="https://github.com/Luis-Henrique-Lima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+<p>  <a  href="https://www.linkedin.com/in/lu%C3%ADs-henrique-santos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px></a> </p>
 
 <h2>Pablo Miceli:</h2>
-<p>Linkdin - https://www.linkedin.com/in/pablo-miceli-8bb155166 </p>
-<p>Github - https://github.com/psmiceli </p>
+<p>  <a href="https://github.com/psmiceli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+<p>  <a  href="https://www.linkedin.com/in/pablo-miceli-8bb15516" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px></a> </p>
